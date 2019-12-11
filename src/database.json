@@ -1,15 +1,15 @@
 {
   "recentCases": [
     {
-	"title":"Petrica a cazut in veceu",
+	"title":"Test numarul 1",
 	"date": "11.12.2019",
-	"description": "Aici este o descriere adevarata facuta special pentru saracul Petrica. Acesta a cazut in veceu si s-a scufundat usor pana cand a fost acoperit complet de materiile sale fecale. Ce ironie, sa fii omorat de propriul tau cacat...",
+	"description": "Copy and connect the repository locally so that you can push updates you make and pull changes others make. Enter git clone and the repository URL at your command line:",
 	"id": 1
     },
     {
-	"title":"Petrica a cazut in veceu versiunea 2.0",
+	"title":"Test versiunea 2.0",
 	"date": "12.12.2019",
-	"description": "Saracu Petrica",
+	"description": "Testare",
 	"id": 2
     }
     ]
