@@ -1,0 +1,36 @@
+.pictureCase{
+    height: 130px;
+    margin: auto auto;
+    margin-left: 10px;
+    justify-content: space-evenly;
+}
+
+.caseTitle{
+    height: 30px;
+    font-size: 20px;
+    margin-top: -8px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.componentRecentCases{
+    display: flex;
+    height: 150px;
+    width: 1520px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    background: white;
+    margin-top:10px;
+    
+}
+
+.recentCaseTitle{
+    margin-top: -4px;
+}
+
+.componentTitle{
+    font-size: 27px;
+    border-bottom: 1px solid black;
+}
